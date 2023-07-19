@@ -140,7 +140,8 @@
 
 <br>
 
-![image](https://github.com/shinebrightly-lee/ZB_MiniBank/assets/128344191/241cd425-0043-4b1f-b9f8-fe3c3950b92a)
+![image](https://github.com/shinebrightly-lee/ZB_MiniBank/assets/128344191/38d3b643-1c2f-4170-9b4c-d13ff6e999d6)
+
 
 <br>
 <br>
